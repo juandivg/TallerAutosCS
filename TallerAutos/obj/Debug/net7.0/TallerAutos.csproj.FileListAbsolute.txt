@@ -1,0 +1,15 @@
+C:\Users\57301\Desktop\JuanDiego\ProyectosCsharp\TallerAutos\bin\Debug\net7.0\TallerAutos.exe
+C:\Users\57301\Desktop\JuanDiego\ProyectosCsharp\TallerAutos\bin\Debug\net7.0\TallerAutos.deps.json
+C:\Users\57301\Desktop\JuanDiego\ProyectosCsharp\TallerAutos\bin\Debug\net7.0\TallerAutos.runtimeconfig.json
+C:\Users\57301\Desktop\JuanDiego\ProyectosCsharp\TallerAutos\bin\Debug\net7.0\TallerAutos.dll
+C:\Users\57301\Desktop\JuanDiego\ProyectosCsharp\TallerAutos\bin\Debug\net7.0\TallerAutos.pdb
+C:\Users\57301\Desktop\JuanDiego\ProyectosCsharp\TallerAutos\obj\Debug\net7.0\TallerAutos.csproj.AssemblyReference.cache
+C:\Users\57301\Desktop\JuanDiego\ProyectosCsharp\TallerAutos\obj\Debug\net7.0\TallerAutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57301\Desktop\JuanDiego\ProyectosCsharp\TallerAutos\obj\Debug\net7.0\TallerAutos.AssemblyInfoInputs.cache
+C:\Users\57301\Desktop\JuanDiego\ProyectosCsharp\TallerAutos\obj\Debug\net7.0\TallerAutos.AssemblyInfo.cs
+C:\Users\57301\Desktop\JuanDiego\ProyectosCsharp\TallerAutos\obj\Debug\net7.0\TallerAutos.csproj.CoreCompileInputs.cache
+C:\Users\57301\Desktop\JuanDiego\ProyectosCsharp\TallerAutos\obj\Debug\net7.0\TallerAutos.dll
+C:\Users\57301\Desktop\JuanDiego\ProyectosCsharp\TallerAutos\obj\Debug\net7.0\refint\TallerAutos.dll
+C:\Users\57301\Desktop\JuanDiego\ProyectosCsharp\TallerAutos\obj\Debug\net7.0\TallerAutos.pdb
+C:\Users\57301\Desktop\JuanDiego\ProyectosCsharp\TallerAutos\obj\Debug\net7.0\TallerAutos.genruntimeconfig.cache
+C:\Users\57301\Desktop\JuanDiego\ProyectosCsharp\TallerAutos\obj\Debug\net7.0\ref\TallerAutos.dll
